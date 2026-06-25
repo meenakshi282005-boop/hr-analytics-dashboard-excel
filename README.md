@@ -5,7 +5,7 @@ This project is an interactive HR Analytics Dashboard built using Microsoft Exce
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+  ![HR Dashboard](HR_Analytics_Dashboard.png)
 
 ## Key Metrics
 - Total Employees: 1470
